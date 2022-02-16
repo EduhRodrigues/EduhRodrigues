@@ -4,7 +4,7 @@
  
 <img src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="90px" alt="Profile views" /> </h3><br>
 
-... ``` you slould know that I'm: ```
+_ _ _ ``` you slould know that I am: ```
 
 
 > **Currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions.<br>**
