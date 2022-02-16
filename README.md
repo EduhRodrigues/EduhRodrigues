@@ -14,7 +14,7 @@
 
 > **Looking for help with a Jr. Job Vacancy!<br>**
 
-> **What else would you like to know?  <a href = "mailto:eduardorodrigues23@gmail.com"> e-mail me here</a> <br>**
+> **What else would you like to know?  <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br>**
 
  <div align="center">
 
