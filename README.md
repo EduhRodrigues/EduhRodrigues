@@ -21,7 +21,7 @@
   </div>
   
        
-  <div>
+  <div align="center">
 
 ## 🛠 &nbsp;Tech Stack
 
