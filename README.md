@@ -12,7 +12,7 @@
 
 > **Looking to collaborate on entry-level solutions applications.<br>**
 
-> **Looking for help with a Jr. Job Vacancy!<br>**
+> **Looking for help with a Jr. job vacancy!<br>**
 
 > **What else would you like to know?  <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br>**
 
