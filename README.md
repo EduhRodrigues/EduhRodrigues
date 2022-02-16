@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> **``` Hi!  I'm Eduardo ```** <p align="right"> </p>
  
-<img src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="90px" alt="Profile views" /> </h3><br>
+<img src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="90px" alt="Profile views" /> </h3>
 
     You should know I am...
 
