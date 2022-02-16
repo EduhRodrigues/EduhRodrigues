@@ -4,7 +4,7 @@
  
 <img src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="90px" alt="Profile views" /> </h3><br>
 
- ``` What you should know about me: ```
+__ ``` What you should know about me: ```
 
 
 > **I’m currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions.<br>**
