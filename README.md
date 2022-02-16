@@ -6,15 +6,15 @@
 
 ``` What you should know about me: ```
 
-**>I’m currently acquiring front-end and back-end skills, while looking for own and third-party applications solutions.<br>**
+> **I’m currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions.<br>**
 
-**>Learning CSS, JavaScript, Git and AWS.<br>**
+> **Learning CSS, JavaScript, Git and AWS.**<br>
 
-**>Looking to collaborate on entry-level solutions applications.<br>**
+> **Looking to collaborate on entry-level solutions applications.<br>**
 
-**>Looking for help with a Jr. Job Vacancy!<br>**
+> **Looking for help with a Jr. Job Vacancy!<br>**
 
-**>What else would you like to know?  <a href = "mailto:eduardorodrigues23@gmail.com">E-mail me here</a> <br>**
+> **What else would you like to know?  <a href = "mailto:eduardorodrigues23@gmail.com"> e-mail me here</a> <br>**
 
  <div align="center">
 
