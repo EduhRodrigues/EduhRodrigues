@@ -1,7 +1,5 @@
 ## Hi. I'm Eduardo.
 
-Here are some ideas to get you started:
-
 🔭 I’m currently acquiring front-end and back-end skills, while looking for own and third-party applications solutions.<br>
 🌱 I’m currently learning HTML5, CSS3, NodeJS, JavaScript, Git and GitHub, AWS and GCP.<br>
 👯 I’m looking to collaborate on entry-level solutions applications.<br>
