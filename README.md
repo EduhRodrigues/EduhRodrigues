@@ -1,12 +1,10 @@
-
-
 <h3 align="left">
 
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> **``` Hi!  I'm Eduardo ```** </h3>
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> **``` Hi!  I'm Eduardo... ```** </h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="90px" alt="Profile views" /> </p>
 
-**``` About me ```**
+**``` ... about me ```**
 
 >I’m currently acquiring front-end and back-end skills, while looking for own and third-party applications solutions.<br>
 
