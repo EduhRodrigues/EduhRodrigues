@@ -10,7 +10,17 @@
 <div align="center">
   <a href="https://github.com/EduhRodrigues">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=EduhRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduhRodrigues&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduhRodrigues&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+  
+  <div align="center"> 
+   <a href="https://www.linkedin.com/in/eduardo-rodrigues-2b9462229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:eduardorodrigues23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/jeduh_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+ 
+  ![Snake animation](https://github.com/EduhRodrigues/EduhRodrigues/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 
