@@ -1,11 +1,9 @@
-<h3 align="left">
+<h3 align="center">
 
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> **``` Hi!  I'm Eduardo ```** <p align="right"> </p>
  
-<img src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="90px" alt="Profile views" /> </h3>
-
+<img align="left" src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="90px" alt="Profile views" /> </h3><br>
     You should know I am...
-
 > **Currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions.<br>**
 
 > **Learning CSS, JavaScript, Git and AWS.**<br>
