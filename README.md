@@ -16,7 +16,7 @@
 
 > **Looking for help with a Jr. job vacancy!<br>**
 
-> **I've worked on an international cruise ship as a waiter<br>**
+> **I've worked on an international cruise ship as a waiter.<br>**
 
 > **What else would you like to know?  <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br>**
 
