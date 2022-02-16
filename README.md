@@ -1,4 +1,4 @@
-<h2 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, I'm Eduardo</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> Hi!  I'm Eduardo</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="90px" alt="Profile views" /> </p>
 
 >I’m currently acquiring front-end and back-end skills, while looking for own and third-party applications solutions.<br>
