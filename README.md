@@ -1,4 +1,9 @@
-<h2 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> Hi!  I'm Eduardo</h2>
+
+
+<h3 align="left">
+
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> **``` Hi!  I'm Eduardo ```** </h3>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="90px" alt="Profile views" /> </p>
 
 **``` About me ```**
