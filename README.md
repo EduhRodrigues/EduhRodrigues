@@ -1,20 +1,12 @@
 <h3 align="center">
 
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> **``` Hi!  I'm Eduardo ```** <p align="right"> </p>
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> **``` Hi there!  I'm Eduardo ```** <p align="right"> </p>
  
 <img align="left" src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="75px" alt="Profile views" /> </h3><br>
-... ``` You should know I am: ```
-> **Currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions.<br>**
 
-> **Learning CSS, JavaScript, Git and AWS.**<br>
+###### <details><summary><``` Abou me: ```> (click)</summary> <br>``` I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. ``` <br>Learning CSS, JavaScript, Git and AWS.<br>Looking to collaborate on entry-level solutions applications.<br>Looking for help with a Jr. programmer vacancy!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
+ 
 
-> **Looking to collaborate on entry-level solutions applications.<br>**
-
-> **Looking for help with a Jr. programmer vacancy!<br>**
-
-> **And I've worked on an international cruise ship as a waiter.<br>**
-
-> **What else would you like to know?  <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br>**
 
  <div align="center">
 
