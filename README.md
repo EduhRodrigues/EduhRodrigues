@@ -6,7 +6,7 @@
  
 <img align="left" src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="75px" alt="Profile views" /> </h3><br>
 
-###### <details><summary>``` Abou me: ```</summary> <br>``` I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. ``` <br>Learning CSS, JavaScript, Git and AWS.<br>Looking to collaborate on entry-level solutions applications.<br>Looking for help with a Jr. programmer vacancy!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
+###### <details><summary>``` Abou me: ```</summary> <br>``` I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. ``` <br>Learning CSS, JavaScript, MDL, Git and AWS.<br>Looking to collaborate on entry-level solutions applications.<br>Looking for help with a Jr. programmer vacancy!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
  
 
 
