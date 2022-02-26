@@ -1,8 +1,6 @@
 <h3 align="center">
 
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> **``` Hi there!  I'm Eduardo ```** <p align="right"> </p>
- 
-<img align="left" src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="75px" alt="Profile views" /> </h3><br>
 
 ###### <details><summary>``` Abou me: ```</summary> <br>``` I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. ``` <br>Learning CSS, JavaScript, MDL, Git and AWS.<br>Looking to collaborate on entry-level solutions applications.<br>Looking for help with a Jr. programmer vacancy!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
  
@@ -37,10 +35,11 @@
  <a href = "mailto:eduardorodrigues23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  </div>
-  
+ 
    ![Snake animation](https://github.com/EduhRodrigues/EduhRodrigues/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
+ 
+ <img align="center" src="https://komarev.com/ghpvc/?username=EduhRodrigues&color=blue" width="85px" alt="Profile views" /> 
+ <div align="center">
   <a href="https://github.com/EduhRodrigues">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduhRodrigues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
   <img height="85em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduhRodrigues&layout=compact&langs_count=7&theme=algolia"/>
