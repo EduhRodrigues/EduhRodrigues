@@ -1,6 +1,6 @@
-<h3 align="center">
-
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> **``` Hi there!  I'm Eduardo ```** <p align="right"> </p>
+<p align="center">
+<img src="https://github.com/EduhRodrigues/EduhRodrigues/blob/main/assets/ezgif.com-gif-maker (1).gif" alt="Olá, me chamo Eduardo">
+</p>
 
 ###### <details><summary>``` Abou me: ```</summary> <br> I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. <br>Learning CSS, JavaScript, MDL, Git and AWS.<br>Looking to collaborate on entry-level solutions applications.<br>Looking for help with a Jr. programmer vacancy!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
  
