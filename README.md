@@ -4,7 +4,7 @@
  <h4><b> Take a look at my personal projects</b>: </h4>
 <h6> I've bunches of projects ideas at my mind, but i decided began 3 of them to practice the knowledges and skills getting in my studies. </h6>
 
-| Header | WOW! Inteligent Assistant | The Pets | Market Hub |
+| Apps -> | WOW! Inteligent Assistant | The Pets | Market Hub |
 |--- |--- |--- |--- |
 | Status | Developing | Developing | Developing
 | Platform | Goolge Cloud Platfom (GCP) | GitHub (temp) | Amazon Web Services (AWS)
