@@ -1,10 +1,18 @@
-<p align="center">
-<img src="https://github.com/EduhRodrigues/EduhRodrigues/blob/main/assets/ezgif.com-gif-maker (1).gif" alt="Olá, me chamo Eduardo">
-</p>
+<h3 align="center"> Hi. I'm Eduardo</h1>
+<h5 align="center"> Dev. Jr. Student</h1>
+
+ <h4><b> Take a look at my personal projects</b>: </h4>
+<h6> I've bunches of projects ideas at my mind, but i decided began 3 of them to practice the knowledges and skills getting in my studies. </h6>
+
+| Header | WOW! Inteligent Assistant | The Pets | Market Hub |
+|--- |--- |--- |--- |
+| Status | Developing | Developing | Developing
+| Platform | Goolge Cloud Platfom (GCP) | GitHub (temp) | Amazon Web Services (AWS)
+| Languages | JS-Nodejs-Dialogflow CX | HTML/CSS/JS/Nodejs | Mat. Design/React/JS/Nodejs
+| Tools | Dialogflow CX | VScode-GIMP | VScode-Figma-GIMP
+
 
 ###### <details><summary>``` Abou me: ```</summary> <br> I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. <br>Learning CSS, JavaScript, MDL, Git and AWS.<br>Looking to collaborate on entry-level solutions applications.<br>Looking for help with a Jr. programmer vacancy!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
- 
-
 
  <div align="center">
 
@@ -23,12 +31,10 @@
   
    <div align="center"> 
   
-  #### My Social Network Profiles
+  #### My Social Network
   
    <a href="https://www.linkedin.com/in/eduardo-rodrigues-2b9462229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://instagram.com/jeduh_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>
-  
+    
    <div align="center"> 
   
   #### Contact 
