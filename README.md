@@ -5,7 +5,7 @@
 
 <a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">Take a look at My Web Page → </a><br>
 <a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">WOW! Intelligent Assitant</a><br>
-<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">The Pets</a><br>
+<a align="center" href="https://eduhrodrigues.github.io/">The Pets</a><br>
 <a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">MarketHub</a><br>
 
 | Apps -> | WOW! Inteligent Assistant | The Pets | Market Hub |
