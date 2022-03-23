@@ -1,8 +1,12 @@
 <h3 align="center"> Hi. I'm Eduardo</h1>
 <h5 align="center"> Dev. Jr. Student</h1>
 
- <h4><b> Take a look at my personal projects</b>: </h4>
-<h6> I've bunches of projects ideas at my mind, but i decided began 3 of them to practice the knowledges and skills getting in my studies. </h6>
+###### <details><summary>``` Abou me: ```</summary> <br> I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. <br>Learning CSS, JavaScript, MDL, Git and AWS.<br>Looking to collaborate on entry-level solutions applications.<br>Looking for help with a Jr. programmer vacancy!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
+
+<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">Take a look at My Web Page → </a><br>
+<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">WOW! Intelligent Assitant</a><br>
+<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">The Pets</a><br>
+<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">MarketHub</a><br>
 
 | Apps -> | WOW! Inteligent Assistant | The Pets | Market Hub |
 |--- |--- |--- |--- |
@@ -10,9 +14,6 @@
 | Platform | Goolge Cloud Platfom (GCP) | GitHub (temp) | Amazon Web Services (AWS)
 | Languages | JS-Nodejs-Dialogflow CX | HTML/CSS/JS/Nodejs | Mat. Design/React/JS/Nodejs
 | Tools | Dialogflow CX | VScode-GIMP | VScode-Figma-GIMP
-
-
-###### <details><summary>``` Abou me: ```</summary> <br> I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. <br>Learning CSS, JavaScript, MDL, Git and AWS.<br>Looking to collaborate on entry-level solutions applications.<br>Looking for help with a Jr. programmer vacancy!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
 
  <div align="center">
 
