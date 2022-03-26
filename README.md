@@ -3,10 +3,11 @@
 
 ###### <details><summary>``` Abou me: ```</summary> <br> I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. <br>Learning CSS, JavaScript, MDL, Git and AWS.<br>Looking to collaborate on entry-level solutions applications.<br>Looking for help with a Jr. programmer vacancy!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
 
-<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">Take a look at My Web Page → </a><br>
+<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">My CV Page → </a><br>
 <a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">WOW! Intelligent Assitant</a><br>
 <a align="center" href="https://eduhrodrigues.github.io/">The Pets</a><br>
 <a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">MarketHub</a><br>
+<a align="center" href="https://eduhrodrigues.github.io/PetShop_VolunteerWorK/">PetShop Volunteer WorK Page</a><br>
 
 | Apps -> | WOW! Inteligent Assistant | The Pets | Market Hub |
 |--- |--- |--- |--- |
