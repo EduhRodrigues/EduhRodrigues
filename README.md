@@ -1,5 +1,5 @@
 <h3 align="center"> Hi. I'm Eduardo</h3>
-<h6 align="center"> Fullstack Jr</h6>
+<h6 align="center"> Full stack Jr</h6>
 <h6 align="center"> 🚀ROCKETSEAT { }FREECODECAMP</h6> 
 <h6 align="center"> Studant</h6>
 
