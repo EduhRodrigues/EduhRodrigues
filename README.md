@@ -5,20 +5,18 @@
 
 <h6 align="center"> Studant</h6>
 
-###### <details><summary>``` Abou me: ```</summary> <br> I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. <br>Learning CSS, JavaScript, MDL, Git and AWS.<br>Looking to collaborate on entry-level solutions applications.<br>Looking for help with a Jr. programmer vacancy!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
+###### <details><summary>``` Abou me: ```</summary> <br> I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. <br>Learning JavaScript, Nodejs, React, Git/Github.<br>Looking to collaborate on solutions that improve the quality of community living.<br>Looking for help with a Jr. developer job!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
 
-<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">My CV Page → </a><br>
-<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">WOW! Intelligent Assitant</a><br>
-<a align="center" href="https://eduhrodrigues.github.io/">The Pets</a><br>
-<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">MarketHub</a><br>
-<a align="center" href="https://eduhrodrigues.github.io/PetShop_VolunteerWorK/">PetShop Volunteer WorK Page</a><br>
+<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">Go to CV</a><br>
 
-| Apps -> | WOW! Inteligent Assistant | The Pets | Market Hub |
-|--- |--- |--- |--- |
-| Status | Developing | Developing | Developing
-| Platform | Goolge Cloud Platfom (GCP) | GitHub (temp) | Amazon Web Services (AWS)
-| Languages | JS-Nodejs-Dialogflow CX | HTML/CSS/JS/Nodejs | Mat. Design/React/JS/Nodejs
-| Tools | Dialogflow CX | VScode-GIMP | VScode-Figma-GIMP
+Check out my personal projects:
+| Apps -> | <a align="center" href="https://eduhrodrigues.github.io/PetShop_VolunteerWorK/">Entrepreneur Solution</a> | <a align="center" href="https://eduhrodrigues.github.io/">Social Project</a><br> | <a align="center" href="https://eduhrodrigues.github.io/PetShop_VolunteerWorK/">Automated Attendant</a> |
+|--- |--- |--- |---
+| Status | Introducing | Developing | Developing|
+| Platform | Github Pages | Vercel | GCP - Dialogflow - Whatsapp |
+| Languages | HTML - CSS | HTML - CSS | JavaScritp - Nodejs |
+| Tools | VScode - GIMP | VScode - GIMP - DevTools | Dialogflow ES |
+
 
  <div align="center">
 
@@ -26,13 +24,11 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   </div>
   
    <div align="center"> 
