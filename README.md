@@ -10,7 +10,7 @@
 <a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">Go to CV</a><br>
 
 Check out my personal projects:
-| Apps -> | <a align="center" href="https://petlove-produtos.vercel.app/">Entrepreneur Solution</a> | <a align="center" href="https://github.com/EduhRodrigues/PetShop_VolunteerWorK">Social Project</a><br> | <a align="center" href="https://github.com/EduhRodrigues/UAU-Assistente-Inteligente-para-Whatsapp">Automated Attendant</a>
+| Apps -> | <a align="center" href="https://petlove-produtos.vercel.app/">Entrepreneur Solution</a> | <a align="center" href="https://github.com/EduhRodrigues/eduhrodrigues.github.io">Social Project</a><br> | <a align="center" href="https://github.com/EduhRodrigues/UAU-Assistente-Inteligente-para-Whatsapp">Automated Attendant</a>
 |--- |--- |--- |---
 | Status | Introducing | Developing | Developing|
 | Platform | Github Pages | Vercel | GCP - Dialogflow - Whatsapp |
