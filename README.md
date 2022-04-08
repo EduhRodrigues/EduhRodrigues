@@ -14,7 +14,7 @@ Check out my personal projects:
 |--- |--- |--- |---
 | Status | Introducing | Developing | Developing|
 | Platform | Github Pages | Vercel | GCP - Dialogflow - Whatsapp |
-| Languages | HTML - CSS | HTML - CSS | JavaScritp - Nodejs |
+| Languages | HTML - CSS | HTML - CSS | JavaScript - Nodejs |
 | Tools | VScode - GIMP | VScode - GIMP - DevTools | Dialogflow ES |
 
 
