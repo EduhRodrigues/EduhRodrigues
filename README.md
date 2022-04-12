@@ -1,4 +1,4 @@
-<h3 align="center"> Hi. I'm Eduardo</h3>
+<h3 align="center"> Hi. I am Eduardo</h3>
 <h6 align="center"> 🔥 freeCodeCamp    🚀 Rocketseat</h6> 
 
 <use fill-opacity="0" stroke="#000000" stroke-opacity="0" xlink:href="#e"></use>
