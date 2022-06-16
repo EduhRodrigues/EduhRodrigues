@@ -1,15 +1,13 @@
 <h3 align="center"> Hi. I am Eduardo</h3>
-<h6 align="center"> 🔥 freeCodeCamp    🚀 Rocketseat</h6> 
-
-<use fill-opacity="0" stroke="#000000" stroke-opacity="0" xlink:href="#e"></use>
-
+<h6 align="center"> 🔥 freeCodeCamp &nbsp&nbsp 🚀 Rocketseat </h6>
 <h6 align="center"> Studant</h6>
+<h6 align="center"> Development, Automation, and Electronic lover. </h6>
 
 ###### <details><summary>``` Abou me: ```</summary> <br> I am currently acquiring front and back-end knoledge, while looking for own and third-party applications solutions. <br>Learning JavaScript, Nodejs, React, Git/Github.<br>Looking to collaborate on solutions that improve the quality of community living.<br>Looking for help with a Jr. developer job!<br>And I've worked on an international cruise ship as a waiter.<br>What else would you like to know? <a href = "mailto:eduardorodrigues23@gmail.com">mail me here</a> <br></details>
 
-<a align="center" href="https://eduhrodrigues.github.io/EduhRodrigues/#">Go to CV</a><br>
+![project](https://user-images.githubusercontent.com/67625804/174093167-54ea46af-4b22-499a-97c8-6842fe7beb0a.png)
+<use fill-opacity="0" stroke="#000000" stroke-opacity="0" xlink:href="#e"></use>
 
-Check out my personal projects:
 | My Jobs | <a align="center" href="https://github.com/EduhRodrigues/PetShop_VolunteerWorK">Entrepreneur Solution</a> | <a align="center" href="https://github.com/EduhRodrigues/eduhrodrigues.github.io">Social Project</a><br> | <a align="center" href="https://github.com/EduhRodrigues/UAU-Assistente-Inteligente-para-Whatsapp">Auto Service</a>
 |--- |--- |--- |---
 | Status | Introducing | Developing | Developing|
