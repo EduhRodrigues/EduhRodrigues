@@ -17,7 +17,8 @@ Atualmente desenvolvendo projetos de automação E2E, testes de API e boas prát
 
 ### QA Automation Portfolio
 Automação de testes E2E utilizando Cypress.
-Repositório:
+
+🔗 Repositório:
 https://github.com/EduhRodrigues/qa-automation-portfolio
 
 - Login
